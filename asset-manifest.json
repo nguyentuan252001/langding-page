@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/langding-page/static/css/main.c8ab81a3.css",
+    "main.js": "/langding-page/static/js/main.2045bb8e.js",
+    "static/media/isocard.svg": "/langding-page/static/media/isocard.b41d54a5b4badc617122bce47e1ade74.svg",
+    "index.html": "/langding-page/index.html",
+    "static/media/checkpoint.svg": "/langding-page/static/media/checkpoint.f1192641eda95b1eadd3f5ed6af32b84.svg",
+    "main.c8ab81a3.css.map": "/langding-page/static/css/main.c8ab81a3.css.map",
+    "main.2045bb8e.js.map": "/langding-page/static/js/main.2045bb8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ab81a3.css",
+    "static/js/main.2045bb8e.js"
+  ]
+}
